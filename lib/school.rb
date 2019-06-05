@@ -5,6 +5,8 @@ class School
     @name = name
     @roster = {}
   end
+  
+  
 end
 
 # school = School.new("Bayside High School")
